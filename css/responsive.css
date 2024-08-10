@@ -1,0 +1,129 @@
+  /*******************QUIENES SOMOS*******************************/
+@media screen and (max-width:1187px) and (min-width:768px) {
+
+}
+/*
+@media screen and (max-width:836px) {
+  #nosotros {
+	height: 700px;
+ 
+	 
+}
+}
+@media screen and (max-width:722px) {
+  #cont-who{
+	width:100%;
+  }
+#cont-log {
+  
+  height: 540px;
+  width: 100%;
+  
+   
+}  #cont-desc {
+   width: 100%;
+    position: absolute;
+   margin-top: 130px;
+  }     
+
+#nosotros {
+  height: 1270px;}
+
+ 
+
+@media screen and (max-width:646px) {
+  #nosotros {
+  height: 1190px;}
+ 
+
+}
+@media screen and (max-width:468px) {
+  #nosotros {
+  height: 1130px;}
+  #artic-p{
+	 
+	font-size: 20px;
+	 
+}
+
+
+}
+@media screen and (max-width:336px) {
+  #nosotros {
+  height: 1190px;}
+
+}
+*/
+ /************************ contacto **********************************/
+   
+@media screen and (max-width: 770px) {
+       #c-form {
+           width: 100%;
+           
+           
+           position: static;
+          
+       }
+       #datos {
+           position: static;
+           width: 100%;
+       }
+	/*
+       #contacto {
+ 
+	height: 800px;
+	 
+	 
+}*/
+
+   }  /*
+ @media screen and (max-width: 331px) {
+ 
+    #contacto {
+ 
+	 height: 890px;
+	 	 
+	 
+   }}*/
+    
+ @media screen and (max-width: 328px) {
+       .contact-title {
+	 	text-align:inherit;
+	  
+}
+
+.title-lead {
+	text-align: left;
+	font-size: 18px;
+	padding-left: 0px;
+  margin: 0;
+	 
+}
+div .contact-title span i {
+ 
+	 
+	float:inherit;
+	  
+}
+   }
+ /************************ contacto **********************************//***********************portafolio***********************************/
+  @media screen and (max-width:1002px ) and (min-width:768px){
+
+       .diseno, .foto, .video{
+           width: 33.33333333%;
+    
+		  
+       }  
+   }
+   
+ @media screen and (max-width: 496px) {
+  .diseno, .foto, .video{
+           width: 100%;
+    
+		  
+       }  
+      
+   }
+   
+
+  

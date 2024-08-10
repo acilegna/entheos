@@ -1,0 +1,15 @@
+@font-face {
+	font-family: CANDARA;
+	font-family: typeone;
+	 
+	src: url(../fonts/CANDARA.ttf);
+	src: url(../fonts/typeone.ttf);
+	
+}
+
+
+ 
+h1 {
+	font-size: 14px;
+	font-family: CANDARA;
+} 

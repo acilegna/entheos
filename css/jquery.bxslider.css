@@ -1,0 +1,60 @@
+
+===================================*/
+/** Carousel **/
+
+ 
+.bx-wrapper {
+	width: 100%;
+ 
+	position: relative;
+	margin: 0 auto ;
+	padding: 0;
+	*zoom: 1;
+  height:auto;
+}
+
+.bx-wrapper img {
+	 width: 100%;
+	display: block;
+    
+    height:auto;
+}
+ 
+
+/** THEME
+===================================*/
+
+.bx-wrapper .bx-viewport {
+
+	 
+	background: #fff;
+	
+	/*fix other elements on the page moving (on Chrome) 
+	-webkit-transform: translatez(0);
+	-moz-transform: translatez(0);
+    	-ms-transform: translatez(0);
+    	-o-transform: translatez(0);
+    	transform: translatez(0);*/
+}
+
+ 
+.bx-wrapper .bx-pager.bx-default-pager a {
+	 
+	display: none;
+}
+
+ 
+/* DIRECTION CONTROLS (NEXT / PREV) */
+
+
+
+.bx-wrapper .bx-controls-direction a {
+	display: none;
+}
+
+ 
+
+/* IMAGE CAPTIONS */
+
+ 
+ 
