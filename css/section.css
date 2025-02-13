@@ -776,6 +776,7 @@ div .contact-title span i {
 
   font-family: verdana, arial;
   font-size: 1pt;
+  margin-bottom: 20px;
 }
 
 .cabina {
@@ -808,13 +809,20 @@ ul.list {
   color: rgb(255, 255, 255);
   font-size: 20px;
   text-decoration: none;
- line-height: 3em;
+  line-height: 3em;
 }
 
 #subt-cabina {
   font-size: 17px;
   color: #474747;
   margin-bottom: 35px;
-  
+
   font-family: CANDARA;
+}
+
+#promocion {
+  font-size: 17px;
+  margin-top: -20px;
+  color: brown;
+  text-align: center;
 }
